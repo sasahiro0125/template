@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sasahiro0125/template/issues"
   },
-  "homepage": "https://github.com/sasahiro0125/template"
+  "homepage": "https://github.com/sasahiro0125/template",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "webpack-stream": "^2.0.0"
+  }
 }
