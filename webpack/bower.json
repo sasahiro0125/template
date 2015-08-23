@@ -1,0 +1,20 @@
+{
+  "name": "webpack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sasahiro0125/template",
+  "authors": [
+    "hiroaki.sasaki <sasa.hiro0125@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "velocity": "~1.2.2"
+  }
+}
