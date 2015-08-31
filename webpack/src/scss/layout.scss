@@ -1,0 +1,26 @@
+@charset 'UTF-8';
+
+$main-color : #333;
+$sub-color : #fc0;
+$notice-color: #f00;
+
+
+body {
+  font-size: 14px;
+}
+
+h1 {
+  background: $main-color;
+
+  p {
+    color: $sub-color;
+  }
+}
+
+h2 {
+  background: $notice-color;
+
+  p {
+    margin-top: 20px;
+  }
+}

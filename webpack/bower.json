@@ -14,7 +14,10 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.4",
-    "velocity": "~1.2.2"
+    "angular": "~1.4.4",
+    "famous-angular": "~0.5.2",
+    "angular-animate": "~1.4.4",
+    "ui-router": "~0.2.15",
+    "moment": "~2.10.6"
   }
 }
